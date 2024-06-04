@@ -3,7 +3,7 @@
 
 # Portfólio de Arquitetura
 
-Este é um site desenvolvido para minha namorada, uma talentosa arquiteta, exibir seus projetos de arquitetura. O site inclui um carrossel para mostrar os projetos, um cabeçalho responsivo com um menu de navegação e outras funcionalidades para destacar seu trabalho.
+Este é um site desenvolvido em React para minha namorada, uma talentosa arquiteta, exibir seus projetos de arquitetura. O site inclui um carrossel para mostrar os projetos, um cabeçalho responsivo com um menu de navegação e outras funcionalidades para destacar seu trabalho.
 
 ## Funcionalidades
 
