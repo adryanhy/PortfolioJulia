@@ -20,7 +20,7 @@ Este é um site desenvolvido em React para minha namorada, uma talentosa arquite
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/portfolio-arquitetura.git
+   git clone https://github.com/adryanhy/PortfolioJulia
    ```
 
 2. Navegue até o diretório do projeto:
